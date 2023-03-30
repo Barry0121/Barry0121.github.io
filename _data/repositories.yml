@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Barry0121
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Barry0121/graph-neural-net-benchmark
+  - Barry0121/Triple-C-Data-Science-Dashboard
+  - Barry0121/RecommendationSystem_DCFA
+  - Barry0121/apartments-scraper
+  - Barry0121/Fashion_Item_Rating_Predition
