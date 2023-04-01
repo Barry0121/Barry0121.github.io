@@ -2,96 +2,80 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Barry Xue
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science
+      institution: University of California, San Diego, USA
+      year: 2019-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Major: Data Science"
+        - Specialized in Machine learning and Artificial Intelligence
+        - title: "Related Course Work:"
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - DSC120  Signal Processing
+            - DSC102  Data Distributed Systems
+            - CSE151B Deep Learning
+            - CSE152 Computer Vision
+            - DSC140  Probabilistic Machine Learning
+            - DSC190  Autonomous Robotics Navigation
+            - CSE234  Large Scale Machine Learning Systems
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: DataWarehouse Engieer, Intern
+      institution: Personalis, Menlo Park, CA
+      year: Summer 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Develop ETL scripts with SQL syntax on Google’s BigQuery Cloud Platform and local SQL Server for genomic data GB-sized data in development and TB-sized data in production
+        - Utilize Dagster to schedule and chain daily/weekly ETL jobs. Deploy regression (Boosted Tree), clustering (K-means), and recommendation (ALS Factorization Machine) models on the development dataset with BigQuery ML
+    - title: Undergraduate Researcher
+      institution: Henry Abarbenal Biophysics Lab
+      year: Sep 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Redesign existing implementation of RBF network with PyTorch to utilize GPU for data heavy experiments, lower projected runtime from 25 hrs to 10 hrs
+        - Implement novel algorithm (False Nearest Neighbor) in Numpy and PyTorch to search for hyperparameter in high-dimensional dynamic system, and successfully recreate the activation voltage of a neuron
+    - title: Risk Model Analyst Intern
+      institution: FICO China
+      year: Summer 2021
       description:
+        - Built reliable user scoring model with Java-based data modeling system with 1000+ real user data in accordance to client’s requirement
+        - Experiment with popular ML algorithms (Random Forest, SVM, Neural Network, etc) to extract more predictive power, raising accuracy by 12% over previous approach
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Machine Learning Application
       items:
-        - Description 1.
-        - Description 2.
+        - Graph Neural Network
+        - Computer Vision and Image Generation
+    - title: Dynamic Systems
+      items:
+        - Neuron Connection in Song Bird's Brain
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Cycling, Cars, Skateboarding, Reading, and more still waiting to be explored 😃.

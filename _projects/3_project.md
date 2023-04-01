@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Fashion Item Recommender
+description: A recommender system that make use of user-item interaction and item's picture
+img: assets/img/fashion-recommender.png
+# redirect: https://unsplash.com
 importance: 3
 category: work
 ---

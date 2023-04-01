@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Zexin Xue (pronounced: ze-sin-shue). Feel free to call me Barry.
+Hi! My name is Zexin Xue. Feel free to call me Barry.
 
 I am currently studying at the University of California, San Diego in the Data Science department, and I plan to graduate during spring of 2023 with a B.S. in Data Science. I am preparing to return to graduate school for a M.S. degree in related fields.
 
