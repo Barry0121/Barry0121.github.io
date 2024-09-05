@@ -7,7 +7,7 @@ subtitle: Machine Learning Researcher/Data Scientist
 
 profile:
   align: right
-  image: profile_pic.png
+  image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>60 Harbord St. </p>
