@@ -41,7 +41,7 @@ redirect_from:
   - Developed DEWDROP, a novel active learning strategy that uses an ensemble of predictions to estimate epistemic uncertainty, optimizing in silico nanobody candidate development.
   - Outperformed BADGE, KMeans, and Random baseline strategies, reducing sample requirements by 25% for achieving target loss in nanobody structure prediction.
   - Fine-tuned the Nanofold model using DEWDROP, achieving a FAPE loss below 0.5 in just 5 rounds, utilizing 35% of the total dataset.
-  - The DEWDROP-Nanofold pipeline is patented, and a manuscript is in preparation for submission to RECOMB.
+  - The DEWDROP-Nanofold pipeline is patented, and a manuscript is in accepted by RECOMB.
 
 - **REAP Lab @ University of Toronto**, Toronto, Canada\
   *Research Assistant*
